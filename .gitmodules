@@ -1,10 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/parse-health/parse-health.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "PheCAP"]
-	path = PheCAP
-	url = https://github.com/celehs/PheCAP
-[submodule "PheNorm"]
-	path = PheNorm
-	url = https://github.com/celehs/PheNorm
