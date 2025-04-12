@@ -1,4 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/parse-health/parse-health.r-universe.dev
 	branch = HEAD
+[submodule "MAP"]
+	path = MAP
+	url = https://github.com/celehs/MAP
+[submodule "PheCAP"]
+	path = PheCAP
+	url = https://github.com/celehs/PheCAP
+[submodule "PheNorm"]
+	path = PheNorm
+	url = https://github.com/celehs/PheNorm
+[submodule "SAMGEP"]
+	path = SAMGEP
+	url = https://github.com/celehs/SAMGEP
+[submodule "SCORNET"]
+	path = SCORNET
+	url = https://github.com/celehs/SCORNET
+[submodule "kesernetwork"]
+	path = kesernetwork
+	url = https://github.com/celehs/kesernetwork
+[submodule "phecodemap"]
+	path = phecodemap
+	url = https://github.com/celehs/phecodemap
+[submodule "sureLDA"]
+	path = sureLDA
+	url = https://github.com/celehs/sureLDA
